@@ -1,0 +1,16 @@
+.my-shadow {
+    box-shadow: 0px 0px 83px 0px rgba(215,215,215,0.75);
+-webkit-box-shadow: 0px 0px 83px 0px rgba(215,215,215,0.75);
+-moz-box-shadow: 0px 0px 83px 0px rgba(215,215,215,0.75);
+
+}
+
+.text-danger {
+    color: #fd3159 !important;
+}
+
+.my-img {
+    width: auto;
+    height: 11rem;
+    object-fit: cover;
+}
